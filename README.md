@@ -7,18 +7,14 @@
 - #### 🚀 **Server Side Link to the Deployed Project**
   - https://prod-rec-server-site.vercel.app/
 
-### 2. **Project Requirement pdf**
-
-- https://docs.google.com/document/d/1jqh6_MtugXCVICljrqUh4yfWZXb3Cf9w2OxyueJ3ED0/edit?tab=t.0
-
-### 3. 📝 **Project Description**
+### 2. 📝 **Project Description**
 
 ProdRec is a dynamic recommendation platform designed to enhance decision-making for users exploring products. Built using React, Tailwind CSS, DaisyUI, Firebase, and MongoDB, ProdRec allows users to submit queries about products and receive personalized recommendations from others.
 
 The platform offers a seamless experience for managing queries and recommendations, featuring user authentication and a clean, responsive interface. With advanced features like timestamped queries, categorized search, and recommendation tracking, ProdRec is a versatile tool for users seeking trusted product suggestions
 
 
-### 4. 🛠️ **Technologies Used**
+### 3. 🛠️ **Technologies Used**
 
 ### **Frontend**
 
@@ -35,14 +31,14 @@ The platform offers a seamless experience for managing queries and recommendatio
 - [Express](https://expressjs.com/en/starter/hello-world.html) – NoSQL database for storing product and order details.
 
 
-### 5. Web App Project Structure
+### 4. Web App Project Structure
 
 ## 🌐 Layout & Page Structure
 
 ### 🧭 Main Layout
 - **Header (Navbar)**
   - Website Logo + Name
-  - Navigation (conditional based on login status):
+  - Navigation (conditionally based on login status):
     - **Not Logged In:**
       - Home
       - Queries
